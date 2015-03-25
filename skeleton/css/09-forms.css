@@ -1,0 +1,25 @@
+/* PHASE 9: Forms */
+.content-main .thumb {
+  float: left;
+  margin: 20px auto;
+}
+
+.form {
+  height: 400px;
+  background: #eee;
+  float: right;
+  margin: 20px 20px;
+  padding: 20px 20px;
+}
+
+.input {
+  width: 100%;
+  margin: 10px auto;
+  border-radius: 5px;
+  background: white;
+  border: 1px solid #ccc;
+}
+
+textarea {
+  resize: none;
+}
